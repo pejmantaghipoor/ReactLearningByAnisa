@@ -1,10 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
+import InputText from './InputText'
 
 function App() {
   return (<div>
     <div><h1>This is my first react project</h1></div>
-    <div><h1>This is my first react project</h1></div>
+    <div><InputText></InputText></div>
     </div>
 
 
